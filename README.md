@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm working as a data scientist for last four years with retail businesses.
-I love using algorithms and data to solve their operational issues using machine learning.
-I have a background in computer science and industrial engineering.
-I have been focussed on Python and R, but also believe technology used is just a means to the end.
-To connect, you can [mail me](mailto:shuklarusheel.iitk@gmail.com) or [add me on LinkedIn](https://www.linkedin.com/in/rusheel-shukla/)
+I'm working as a data scientist for last four years with retail businesses.<br>
+I love using algorithms and data to solve their operational issues using machine learning.<br>
+I have a background in computer science and industrial engineering.<br>
+I have been focussed on Python and R, but also believe technology used is just a means to the end.<br>
+<br>
+To connect, you can [mail me](mailto:shuklarusheel.iitk@gmail.com) or [add me on LinkedIn](https://www.linkedin.com/in/rusheel-shukla/).
 
 <!--
+I'm currently exploring deep learning and OpenAI.<br>
 **rusheelshukla/rusheelshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
