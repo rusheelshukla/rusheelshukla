@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a data scientist working majorly in retail domain with ML libraries in Python and R.
+You can reach me [mail me](mailto:shuklarusheel.iitk@gmail.com) or [Connect on LinkedIn](https://www.linkedin.com/in/rusheel-shukla/)
+
 <!--
 **rusheelshukla/rusheelshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
