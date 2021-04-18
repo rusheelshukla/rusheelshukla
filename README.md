@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm a data scientist working majorly in retail domain with ML libraries in Python and R.
+I'm working as a data scientist for last four years with retail businesses.
+I love using algorithms and data to solve their operational issues using machine learning.
+I have a background in computer science and industrial engineering.
+I have been focussed on Python and R, but also believe technology used is just a means to the end.
 To connect, you can [mail me](mailto:shuklarusheel.iitk@gmail.com) or [add me on LinkedIn](https://www.linkedin.com/in/rusheel-shukla/)
 
 <!--
